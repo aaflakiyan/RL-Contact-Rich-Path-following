@@ -5,5 +5,5 @@ This repository showcases the use of a simulated cutter on a KUKA robot, coupled
 
 The environment of interest should be cloned, and ROS Topics and ROS services and functionalities should be updated respectively in all the files. 
 
-##TO DO
-The example simulation environemnt will be added. 
+# TO DO
+The example simulation environmentt will be added. 
